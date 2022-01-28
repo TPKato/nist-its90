@@ -1,0 +1,6 @@
+* Library for Thermocouple based on NIST ITS-90 Database
+
+Visit [[https://www.chinpui.org/hack/en/softwares/nist-its90/]]
+([[https://www.chinpui.org/hack/softwares/nist-its90/][Japanese]],
+[[https://www.chinpui.org/hack/de/softwares/nist-its90/][Deutsch]])
+for more details.
